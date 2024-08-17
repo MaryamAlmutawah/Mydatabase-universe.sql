@@ -64,3 +64,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo "# Mydatabase-universe.sql" >> README.md
 git init
 git add .
+git add README.md
+git add .
